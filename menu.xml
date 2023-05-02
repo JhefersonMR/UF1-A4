@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurante>
+  <menu>
+    <plato>
+      <nombre>Lasaña de carne</nombre>
+      <precio>15.99</precio>
+      <descripcion>Capas de pasta, carne molida, salsa marinara y queso ricotta</descripcion>
+      <calorias>850 kcal</calorias>
+      <caracteristicas>
+        <ingredientes>
+          <ingrediente>Pasta</ingrediente>
+          <ingrediente>Carne molida</ingrediente>
+          <ingrediente>Salsa marinara</ingrediente>
+          <ingrediente>Queso ricotta</ingrediente>
+        </ingredientes>
+        <gluten>Contiene gluten</gluten>
+      </caracteristicas>
+      <imagen>img/lasaña-carne.jpg</imagen>
+    </plato>
+
+    <plato>
+      <nombre>Filete de salmón</nombre>
+      <precio>19.99</precio>
+      <descripcion>Salmón a la parrilla y verduras al vapor</descripcion>
+      <calorias>600 kcal</calorias>
+      <caracteristicas>
+        <ingredientes>
+          <ingrediente>Salmón</ingrediente>
+          <ingrediente>Verduras al vapor</ingrediente>
+        </ingredientes>
+        <gluten>No contiene gluten</gluten>
+      </caracteristicas>
+      <imagen>img/salmon.jpg</imagen>
+    </plato>
+
+    <plato>
+      <nombre>Pollo al horno</nombre>
+      <precio>18.99</precio>
+      <descripcion>Pollo asado al horno con hierbas y especias, acompañado de arroz y verduras asadas</descripcion>
+      <calorias>750 kcal</calorias>
+      <caracteristicas>
+      <ingredientes>
+      <ingrediente>Pollo</ingrediente>
+      <ingrediente>Hierbas y especias</ingrediente>
+      <ingrediente>Arroz</ingrediente>
+      <ingrediente>Verduras asadas</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/pollo-horno.jpg</imagen>
+    </plato>
+
+    <plato>
+      <nombre>Hamburguesa con patatas</nombre>
+      <precio>12.99</precio>
+      <descripcion>Una jugosa hamburguesa de carne con queso cheddar, tocino, lechuga y tomate, acompañada de patatas fritas crujientes.</descripcion>
+      <calorias>1200 kcal</calorias>
+      <caracteristicas>
+      <ingredientes>
+      <ingrediente>Carne de res</ingrediente>
+      <ingrediente>Queso cheddar</ingrediente>
+      <ingrediente>Tocino</ingrediente>
+      <ingrediente>Lechuga</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Patatas</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/hamburguesa-patatas.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Tacos veganos</nombre>
+    <precio>10.99</precio>
+    <descripcion>Tacos de tortilla de maíz rellenos de frijoles negros, aguacate, cebolla, tomate y cilantro, acompañados de arroz integral y ensalada de col.</descripcion>
+    <calorias>600 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Tortilla de maíz</ingrediente>
+      <ingrediente>Frijoles negros</ingrediente>
+      <ingrediente>Aguacate</ingrediente>
+      <ingrediente>Cebolla</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Cilantro</ingrediente>
+      <ingrediente>Arroz integral</ingrediente>
+      <ingrediente>Ensalada de col</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    <vegetariano>Es apto para vegetarianos y veganos</vegetariano>
+    </caracteristicas>
+    <imagen>img/tacos-veganos.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Pizza vegana</nombre>
+    <precio>12.99</precio>
+    <descripcion>Pizza con salsa de tomate, queso vegano, champiñones, cebolla, pimiento, aceitunas y albahaca.</descripcion>
+    <calorias>800 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Masa de pizza</ingrediente>
+      <ingrediente>Salsa de tomate</ingrediente>
+      <ingrediente>Queso vegano</ingrediente>
+      <ingrediente>Champiñones</ingrediente>
+      <ingrediente>Cebolla</ingrediente>
+      <ingrediente>Pimiento</ingrediente>
+      <ingrediente>Aceitunas</ingrediente>
+      <ingrediente>Albahaca</ingrediente>
+    </ingredientes>
+    <gluten>Contiene gluten</gluten>
+    <vegetariano>Es apto para vegetarianos y veganos</vegetariano>
+    </caracteristicas>
+    <imagen>img/pizza-vegana.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Pizza Barbacoa</nombre>
+    <precio>14.99</precio>
+    <descripcion>Pizza con salsa barbacoa, queso mozzarella, pollo, cebolla y pimiento verde</descripcion>
+    <calorias>950 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Masa de pizza</ingrediente>
+      <ingrediente>Salsa barbacoa</ingrediente>
+      <ingrediente>Queso mozzarella</ingrediente>
+      <ingrediente>Pollo</ingrediente>
+      <ingrediente>Cebolla</ingrediente>
+      <ingrediente>Pimiento verde</ingrediente>
+    </ingredientes>
+    <gluten>Contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/pizza-barbacoa.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Spaghetti a la Carbonara</nombre>
+    <precio>16.99</precio>
+    <descripcion>Spaghetti con salsa carbonara, tocino, queso parmesano y huevo</descripcion>
+    <calorias>850 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Spaghetti</ingrediente>
+      <ingrediente>Tocino</ingrediente>
+      <ingrediente>Queso parmesano</ingrediente>
+      <ingrediente>Huevo</ingrediente>
+      <ingrediente>Nata líquida</ingrediente>
+    </ingredientes>
+    <gluten>Contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/spaghetti-carbonara.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Macarrones con queso</nombre>
+    <precio>12.99</precio>
+    <descripcion>Macarrones con una cremosa salsa de queso cheddar</descripcion>
+    <calorias>700 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Macarrones</ingrediente>
+      <ingrediente>Queso cheddar</ingrediente>
+      <ingrediente>Leche</ingrediente>
+      <ingrediente>Mantequilla</ingrediente>
+      <ingrediente>Harina</ingrediente>
+    </ingredientes>
+    <gluten>Contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/macarrones-queso.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Pollo frito con patatas</nombre>
+    <precio>16.99</precio>
+    <descripcion>Pechuga de pollo crujiente y jugosa acompañada de patatas fritas</descripcion>
+    <calorias>950 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Pechuga de pollo</ingrediente>
+      <ingrediente>Harina</ingrediente>
+      <ingrediente>Huevo</ingrediente>
+      <ingrediente>Pan rallado</ingrediente>
+      <ingrediente>Especias</ingrediente>
+      <ingrediente>Patatas</ingrediente>
+      <ingrediente>Aceite de oliva</ingrediente>
+    </ingredientes>
+    <gluten>Contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/pollo-frito-patatas.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Tortilla Española</nombre>
+    <precio>8.99</precio>
+    <descripcion>Una tortilla tradicional española con patatas, cebolla y huevos</descripcion>
+    <calorias>600 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Patatas</ingrediente>
+      <ingrediente>Cebolla</ingrediente>
+      <ingrediente>Huevos</ingrediente>
+      <ingrediente>Aceite de oliva</ingrediente>
+      <ingrediente>Sal</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/tortilla-espanola.jpg</imagen>
+    </plato>
+
+    <plato>
+    <nombre>Paella Valenciana</nombre>
+    <precio>25.99</precio>
+    <descripcion>Plato típico de la gastronomía española que combina arroz, pollo, conejo, verduras y especias</descripcion>
+    <calorias>700 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Arroz</ingrediente>
+      <ingrediente>Pollo</ingrediente>
+      <ingrediente>Conejo</ingrediente>
+      <ingrediente>Garrofón</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Pimiento rojo</ingrediente>
+      <ingrediente>Judía verde</ingrediente>
+      <ingrediente>Aceite de oliva</ingrediente>
+      <ingrediente>Caldo de pollo</ingrediente>
+      <ingrediente>Especias (azafrán, pimentón, sal)</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/paella.jpg</imagen>
+    </plato>
+
+<postre>
+    <nombre>Helado de vainilla con salsa de caramelo</nombre>
+    <precio>6.99</precio>
+    <descripcion>Helado cremoso de vainilla con una deliciosa salsa de caramelo casera</descripcion>
+    <calorias>350 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Leche</ingrediente>
+      <ingrediente>Crema de leche</ingrediente>
+      <ingrediente>Azúcar</ingrediente>
+      <ingrediente>Yemas de huevo</ingrediente>
+      <ingrediente>Extracto de vainilla</ingrediente>
+      <ingrediente>Caramelo</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/helado-caramelo.jpg</imagen>
+    </postre>
+
+    <postre>
+      <nombre>Tiramisú</nombre>
+      <precio>7.99</precio>
+      <descripcion>Postre italiano con bizcochos, café y queso mascarpone</descripcion>
+      <calorias>500 kcal</calorias>
+      <caracteristicas>
+        <ingredientes>
+          <ingrediente>Bizcochos</ingrediente>
+          <ingrediente>Café</ingrediente>
+          <ingrediente>Queso mascarpone</ingrediente>
+        </ingredientes>
+        <gluten>Contiene gluten</gluten>
+      </caracteristicas>
+      <imagen>img/tiramisu.jpg</imagen>
+    </postre>
+
+    <postre>
+    <nombre>Flan de vainilla</nombre>
+    <precio>5.99</precio>
+    <descripcion>Postre tradicional español hecho con leche, huevos y vainilla</descripcion>
+    <calorias>300 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Leche</ingrediente>
+      <ingrediente>Huevos</ingrediente>
+      <ingrediente>Azúcar</ingrediente>
+      <ingrediente>Vainilla</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/flan-vainilla.jpg</imagen>
+    </postre>
+
+    <postre>
+    <nombre>Crema catalana</nombre>
+    <precio>6.50</precio>
+    <descripcion>Postre típico de la cocina catalana, con una capa crujiente de caramelo y una crema suave de vainilla</descripcion>
+    <calorias>350 kcal</calorias>
+    <caracteristicas>
+    <ingredientes>
+      <ingrediente>Leche</ingrediente>
+      <ingrediente>Huevo</ingrediente>
+      <ingrediente>Azúcar</ingrediente>
+      <ingrediente>Maizena</ingrediente>
+      <ingrediente>Canela</ingrediente>
+      <ingrediente>Limón</ingrediente>
+      <ingrediente>Azúcar moreno</ingrediente>
+    </ingredientes>
+    <gluten>No contiene gluten</gluten>
+    </caracteristicas>
+    <imagen>img/crema-catalana.jpg</imagen>
+    </postre>
+
+    <bebida>
+      <nombre>Refresco de limón</nombre>
+      <precio>2.99</precio>
+      <descripcion>Refresco de limón natural</descripcion>
+      <calorias>150 kcal</calorias>
+      <caracteristicas>
+        <alcohol>No contiene alcohol</alcohol>
+      </caracteristicas>
+      <imagen>img/refresco-limon.jpg</imagen>
+    </bebida>
+
+    <bebida>
+    <nombre>Jugo de naranja natural</nombre>
+    <precio>3.50</precio>
+    <descripcion>Jugo fresco hecho con naranjas recién exprimidas</descripcion>
+    <calorias>120 kcal</calorias>
+    <caracteristicas>
+    <alcohol>No contiene alcohol</alcohol>
+    </caracteristicas>
+    <imagen>img/jugo-naranja.jpg</imagen>
+  </bebida>
+
+  <bebida>
+  <nombre>Piña Colada</nombre>
+  <precio>6.99</precio>
+  <descripcion>Bebida tropical con ron, piña y crema de coco</descripcion>
+  <calorias>350 kcal</calorias>
+  <caracteristicas>
+    <ingredientes>
+      <ingrediente>Ron</ingrediente>
+      <ingrediente>Zumo de piña</ingrediente>
+      <ingrediente>Crema de coco</ingrediente>
+      <ingrediente>Hielo</ingrediente>
+    </ingredientes>
+    <alcohol>Contiene alcohol</alcohol>
+  </caracteristicas>
+  <imagen>img/piña-colada.jpg</imagen>
+  </bebida>
+
+  <bebida>
+  <nombre>Agua mineral</nombre>
+  <precio>1.99</precio>
+  <descripcion>Agua mineral natural</descripcion>
+  <calorias>0 kcal</calorias>
+  <caracteristicas>
+    <alcohol>No contiene alcohol</alcohol>
+  </caracteristicas>
+  <imagen>img/agua.jpg</imagen>
+</bebida>
+
+  </menu>
+</restaurante>
+
+
